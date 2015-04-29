@@ -1,7 +1,7 @@
 {
   "name": "ng-nouislider",
   "main": "ng-nouislider.js",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "homepage": "https://github.com/zoyi/ng-nouislider",
   "authors": [
     "Di Wu <wudi@zoyi.co>"
