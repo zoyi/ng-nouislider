@@ -2,7 +2,7 @@
 
 angular.module('ng-nouislider', []).directive('nouislider', function(){
   return {
-    restrict: 'EA',
+    restrict: 'A',
     scope: {
       min: '=',
       max: '=',
