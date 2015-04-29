@@ -1,6 +1,9 @@
 {
   "name": "ng-nouislider",
-  "main": "ng-nouislider.js",
+  "main": [
+    "ng-nouislider.js",
+    "ng-nouislider.css"
+  ]
   "version": "0.1.2",
   "homepage": "https://github.com/zoyi/ng-nouislider",
   "authors": [
