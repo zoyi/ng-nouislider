@@ -4,7 +4,7 @@
     "ng-nouislider.js",
     "ng-nouislider.css"
   ],
-  "version": "0.1.4",
+  "version": "0.1.5",
   "homepage": "https://github.com/zoyi/ng-nouislider",
   "authors": [
     "Di Wu <wudi@zoyi.co>"
